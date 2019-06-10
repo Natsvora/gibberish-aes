@@ -12,7 +12,7 @@
   "main": "dist/gibberish-aes-1.0.0.min.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mdp/gibberish-aes.git"
+    "url": "git://github.com/gsamal/gibberish-aes.git"
   },
   "keywords": [],
   "dependencies": {},
